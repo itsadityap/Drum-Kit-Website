@@ -3,4 +3,4 @@ Website where I learned about taking user input in real time (Event Listener in 
 
 This is a on the go drum KIT.
 
-Go check it out.
+Go check it out - itsadityap.github.io/drum-kit-website/
